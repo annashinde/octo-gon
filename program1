@@ -1,0 +1,8 @@
+include<iostream.h>
+include<iosteram.io>
+int a,b;
+cout<<"enter the value for a";
+cin>>a;
+cout<<"enter the value for b";
+cin>>b;
+
